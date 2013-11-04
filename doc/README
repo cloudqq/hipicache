@@ -1,0 +1,8 @@
+#
+#
+#
+# 发布组件
+
+mvn -Dmaven.test.skip=true deploy
+
+
